@@ -2,5 +2,4 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
-# Ne pas oublier d'exclure le modèle .dat s'il est trop lourd (>100Mo)
 models/shape_predictor_68_face_landmarks.dat
